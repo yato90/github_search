@@ -14,7 +14,7 @@
 Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/yato90/yam-music.git
+git clone https://github.com/yato90/github_search.git
 cd yam-music
 npm install
 ```
