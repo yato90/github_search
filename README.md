@@ -15,7 +15,7 @@
 
 ```bash
 git clone https://github.com/yato90/github_search.git
-cd yam-music
+cd github_search
 npm install
 ```
 Укажите свой github token в .env для работы с GitHub GraphQL API
